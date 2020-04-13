@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "887383868666",
+    "firebase_url": "https://discswap-568cc.firebaseio.com",
+    "project_id": "discswap-568cc",
+    "storage_bucket": "discswap-568cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887383868666:android:db15c0ce43ab70c0e2b543",
+        "android_client_info": {
+          "package_name": "hu.ait.tanzina.discswap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887383868666-bdrjp7uudued1b7euokqroq41krhpjio.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hu.ait.tanzina.discswap",
+            "certificate_hash": "a705bd1c3f3441a4e3e93e6c5c8f81fefffc823b"
+          }
+        },
+        {
+          "client_id": "887383868666-glvnjhgntovr0urochomq7eamk11svmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwLNlQ_p16jzvRpaPy_ItsZ5kbY2dOHcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887383868666-glvnjhgntovr0urochomq7eamk11svmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
